@@ -1,4 +1,4 @@
-# Bioinformatics Small Projects
+# Small Bioinformatics Projects
 
 A collection of bioinformatics analysis projects implemented in Python using Biopython.
 
